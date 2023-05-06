@@ -29,7 +29,7 @@ function Interests() {
     return (
         <div>
             <h2  className="interests">Interests</h2>
-            <p className="interests-info">Food expert. Music scholar. Reader. Internet fanatic. Travel geek. K-drama holic. Explorer.</p>
+            <p className="interests-info">Gaming | Chess | Drawing | Video Editing | Reading - Books, Manga Stories | Internet Exploring</p>
         </div>
     )
 }
